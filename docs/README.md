@@ -8,6 +8,7 @@ Obsidian is good for taking note / writing documentation but not good enough for
 
 - [[Quick start]]
 - [[API Reference]]
+- [[github]]
 
 #### Links
 
